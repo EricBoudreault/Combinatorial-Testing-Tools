@@ -1,0 +1,20 @@
+################################################
+# Opérateurs de comparaison supportés :
+# 	=
+#	==
+#	<
+#	<=
+#	>
+#	>=
+#	!=
+#	""
+#	IN
+#	NOT IN
+#	BETWEEN
+#	IS
+#	IS NOT
+################################################
+Age != '20'
+Athlete == "Ronaldo"
+#Athlete = 'Messi'
+Athlete = 'Gretzky' AND Taille != '1.8'
