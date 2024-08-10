@@ -14,7 +14,6 @@ Le fichier 'data.txt' constitué de champs, de types et de données. Les combina
 Dans cet exemple, nous avons le champ 'Athlete' de type TEXT ainsi que le champ 'Age' de type INTEGER.
 Les données suivent les champs et si une ligne débute par un #, elle sera ignorée.
 
-&nbsp;
 
 Voici un exemple du fichier 'data.txt' :
 ```sh
@@ -36,7 +35,6 @@ Le fichier 'exclusions.txt' définit les conditions à exclure des combinaisons 
 Avec ce langage SQL, on peut utiliser des opérateurs logiques tels que AND, OR et != et des parenthèses pour définir des conditions plus complexes.
 Encore une fois ici, une ligne débutant par un # ne pas considérée
 
-&nbsp;
 
 Voici un exemple du fichier 'exclusions.txt' :
 ```sh
