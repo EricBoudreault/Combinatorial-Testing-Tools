@@ -53,7 +53,7 @@ Athlete = 'Gretzky' AND Taille != '1.8'
 - Exportation des données en format SQL
 
 
-#### Exemples d'utilisation
+#### Exemples d'utilisation :
 ```sh
 python generate-data.py
 python generate-data.py csv
