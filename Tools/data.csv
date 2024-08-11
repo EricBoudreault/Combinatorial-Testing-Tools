@@ -1,0 +1,6 @@
+Athlete;Age;Taille
+TEXT;INTEGER;REAL
+Gretzky;20;1.65
+Lemieux;25;1.80
+Messi;30;
+Ronaldo;;
