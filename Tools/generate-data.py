@@ -1,10 +1,3 @@
-﻿#########################################################################
-# Exemple d'utilisation :
-#    python combi.py xml
-#    python combi.py json
-#    python combi.py csv
-#    python combi.py
-#########################################################################
 import os
 import sys
 import datetime
