@@ -1,5 +1,5 @@
 # Combinatorial-Testing-Tools
-Générateur de données pour les tests combinatoires développé en Python.
+Générateurs de données pour les tests combinatoires développé en Python.
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
