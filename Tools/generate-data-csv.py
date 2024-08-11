@@ -50,8 +50,8 @@ def parse_data_file(file_path):
         
         with open(file_path, 'r', newline='') as csvfile:
             reader = csv.reader(csvfile, delimiter=CSV_DELIMITER)
-            header = next(reader)  # Lire l'entête (noms du champ)
-            types = next(reader)   # Lire le type
+            header = next(reader) # Lire l'entête (noms du champ)
+            types = next(reader) # Lire le type
             
             # Initialiser les champs et les dictionnaires de données
             for field, type_ in zip(header, types):
