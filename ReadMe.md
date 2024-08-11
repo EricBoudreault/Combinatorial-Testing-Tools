@@ -40,7 +40,7 @@ Taille|REAL
 
 Le fichier 'exclusions.txt' définit les conditions à exclure des combinaisons de données.
 Avec ce langage SQL, on peut utiliser des opérateurs logiques tels que AND, OR et != et des parenthèses pour définir des conditions plus complexes.
-Encore une fois ici, une ligne débutant par un # ne pas considérée
+Encore une fois ici, une ligne débutant par un # ne pas considérée.
 
 
 Voici un exemple du fichier 'exclusions.txt' :
@@ -53,11 +53,8 @@ Athlete = 'Gretzky' AND Taille != '1.8'
 
 #### Fonctionnalités
 - Génération de toutes les combinaisons possibles de valeurs d'entrée
-- Langage SQL pour l'exclusion de données
-- Exportation des données en format CSV
-- Exportation des données en format XML
-- Exportation des données en format JSON
-- Exportation des données en format SQL
+- Langage SQL pour l'exclusion des données
+- Exportation des données en format CSV, XML, JSON ou SQL
 
 
 #### Exemples d'utilisation :
@@ -94,7 +91,7 @@ Ronaldo;;
 
 Le fichier 'exclusions.txt' définit les conditions à exclure des combinaisons de données.
 Avec ce langage SQL, on peut utiliser des opérateurs logiques tels que AND, OR et != et des parenthèses pour définir des conditions plus complexes.
-Encore une fois ici, une ligne débutant par un # ne pas considérée
+Dans ce fichier des conditions d'exclusion, une ligne débutant par un # ne pas considérée.
 
 
 Voici un exemple du fichier 'exclusions.txt' :
@@ -107,11 +104,8 @@ Athlete = 'Gretzky' AND Taille != '1.8'
 
 #### Fonctionnalités
 - Génération de toutes les combinaisons possibles de valeurs d'entrée
-- Langage SQL pour l'exclusion de données
-- Exportation des données en format CSV
-- Exportation des données en format XML
-- Exportation des données en format JSON
-- Exportation des données en format SQL
+- Langage SQL pour l'exclusion des données
+- Exportation des données en format CSV, XML, JSON ou SQL
 
 
 #### Exemples d'utilisation :
