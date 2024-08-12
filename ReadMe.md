@@ -52,9 +52,9 @@ Athlete = 'Gretzky' AND Taille != '1.8'
 ```
 
 #### Fonctionnalités
-- Génération de toutes les combinaisons possibles de valeurs d'entrée
-- Langage SQL pour l'exclusion des données
-- Exportation des données en format CSV, XML, JSON ou SQL
+- Génération de toutes les combinaisons possibles de données
+- Langage SQL pour l'exclusion de ces données
+- Exportation des données finales en format CSV, XML, JSON ou SQL
 
 
 #### Exemples d'utilisation :
@@ -103,9 +103,9 @@ Athlete = 'Gretzky' AND Taille != '1.8'
 ```
 
 #### Fonctionnalités
-- Génération de toutes les combinaisons possibles de valeurs d'entrée
-- Langage SQL pour l'exclusion des données
-- Exportation des données en format CSV, XML, JSON ou SQL
+- Génération de toutes les combinaisons possibles de données
+- Langage SQL pour l'exclusion de ces données
+- Exportation des données finales en format CSV, XML, JSON ou SQL
 
 
 #### Exemples d'utilisation :
