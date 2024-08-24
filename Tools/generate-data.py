@@ -1,5 +1,6 @@
 # Developped by eboudreault@gmail.com
 # 2024-08
+# coding: utf-8
 import os
 import sys
 import datetime
